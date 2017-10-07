@@ -1,0 +1,7 @@
+D:\Projects\CarRent\CarRent\bin\Debug\CarRent1.dll
+D:\Projects\CarRent\CarRent\bin\Debug\CarRent1.pdb
+D:\Projects\CarRent\CarRent\obj\Debug\CarRent.csprojResolveAssemblyReference.cache
+D:\Projects\CarRent\CarRent\obj\Debug\CarRent1.dll
+D:\Projects\CarRent\CarRent\obj\Debug\CarRent1.pdb
+D:\Projects\CarRent\CarRent\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\CarRent\CarRent\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,11 @@
+D:\Projects\CarRent\CarTesting\bin\Release\CarTesting.dll
+D:\Projects\CarRent\CarTesting\bin\Release\CarTesting.pdb
+D:\Projects\CarRent\CarTesting\bin\Release\CarRent1.dll
+D:\Projects\CarRent\CarTesting\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\CarRent\CarTesting\bin\Release\CarRent1.pdb
+D:\Projects\CarRent\CarTesting\bin\Release\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Projects\CarRent\CarTesting\obj\Release\CarTesting.csprojResolveAssemblyReference.cache
+D:\Projects\CarRent\CarTesting\obj\Release\CarTesting.dll
+D:\Projects\CarRent\CarTesting\obj\Release\CarTesting.pdb
+D:\Projects\CarRent\CarTesting\bin\Release\Newtonsoft.Json.dll
+D:\Projects\CarRent\CarTesting\bin\Release\Newtonsoft.Json.xml

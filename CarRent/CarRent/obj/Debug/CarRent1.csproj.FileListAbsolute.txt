@@ -1,0 +1,5 @@
+D:\Projects\CarRent1\CarRent1\bin\Debug\CarRent1.dll
+D:\Projects\CarRent1\CarRent1\bin\Debug\CarRent1.pdb
+D:\Projects\CarRent1\CarRent1\obj\Debug\CarRent1.csprojResolveAssemblyReference.cache
+D:\Projects\CarRent1\CarRent1\obj\Debug\CarRent1.dll
+D:\Projects\CarRent1\CarRent1\obj\Debug\CarRent1.pdb
